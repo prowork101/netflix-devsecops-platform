@@ -4,7 +4,10 @@
 
 This project demonstrates the deployment of a Jenkins-based CI/CD pipeline on AWS using Infrastructure as Code (IaC) principles. AWS networking resources were provisioned and validated, Jenkins was deployed on an EC2 instance, and GitHub integration was configured to automate pipeline execution through a Jenkinsfile.
 
-```
+
+## Project Structure
+
+```text
 netflix-devsecops-platform/
 │
 ├── terraform/
@@ -50,7 +53,8 @@ netflix-devsecops-platform/
 ├── .gitignore
 └── LICENSE
 ```
----
+
+
 
 ## Build
 
