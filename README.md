@@ -67,6 +67,25 @@ netflix-devsecops-platform/
 - Jenkins CI/CD Pipeline
 - GitHub Repository Integration
 
+
+Technologies Used
+
+Terraform
+AWS VPC
+Public Subnet
+Internet Gateway
+Route Tables
+Security Groups
+Amazon EC2
+Amazon Linux 2023
+Git
+GitHub
+Jenkins
+Jenkinsfile
+CI/CD
+SSH
+Infrastructure as Code (IaC)
+
 ---
 
 ## Configuration
