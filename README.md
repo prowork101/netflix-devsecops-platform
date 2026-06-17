@@ -68,6 +68,7 @@ netflix-devsecops-platform/
 - GitHub Repository Integration
 
 
+
 ## Technologies Used
 
 • Terraform
@@ -86,7 +87,7 @@ netflix-devsecops-platform/
 • SSH
 • Infrastructure as Code (IaC)
 
----
+
 
 ## Configuration
 
