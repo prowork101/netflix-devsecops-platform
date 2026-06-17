@@ -68,7 +68,7 @@ netflix-devsecops-platform/
 - GitHub Repository Integration
 
 
-Technologies Used
+## Technologies Used
 
 •Terraform
 •AWS VPC
